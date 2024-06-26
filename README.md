@@ -54,10 +54,10 @@ The repository contains the following files:
 
 The `main.cpp` file serves as the entry point for the game. and contain a list to allow to user to choose game to play it.
 the list is:
-         1- Tic Tac Toe.
-         2- Pyramid Tic-Tac-Toe.
-         3- Four-in-a-row (Connect Four).
-         4- 5 * 5 Tic-Tac-Toe.
+1- Tic Tac Toe.
+2- Pyramid Tic-Tac-Toe.
+3- Four-in-a-row (Connect Four).
+4- 5 * 5 Tic-Tac-Toe.
 
 ## Contributing
 Feel free to contribute to the project by opening issues and submitting pull requests. Ensure you follow the coding style and document your changes appropriately.
