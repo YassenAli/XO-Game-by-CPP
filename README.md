@@ -52,7 +52,7 @@ The repository contains the following files:
 
 ## Main.cpp
 
-The `main.cpp` file serves as the entry point for the game. and contain a list to allow to user to choose game to play it.
+The `main.cpp` file serves as the entry point for the game. The main file contains a list to allow the user to choose a game to play.
 #### The list is:
 1. Tic Tac Toe.
 2. Pyramid Tic-Tac-Toe.
